@@ -36,7 +36,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/MaxPhisher```
+ - ```git clone https://github.com/GeniousYash/Phisherpy```
 
 ##### Enter the directory
  - ```cd MaxPhisher```
@@ -47,10 +47,6 @@
 ##### Run the tool
  - ```python3 maxphisher.py```
 
-#### Or, directly run
-```
-wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/maxphisher.py && python3 maxphisher.py
-
 ```
 
 ### Pip
@@ -60,8 +56,8 @@ wget https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/maxphisher.py &
 
 ### Docker
 
- - `sudo docker pull kasroudra/maxphisher`
- - `sudo docker run --rm -it kasroudra/maxphisher`
+ - `sudo docker pull GeniousYash/Phisherpy`
+ - `sudo docker run --rm -it GeniousYash/Phisherpy`
 
 
 ### Support
@@ -86,11 +82,11 @@ usage: maxphisher.py [-h] [-p PORT] [-t TYPE] [-o OPTION]
 
 options:
   -h, --help            show this help message and exit
-  -p PORT, --port PORT  MaxPhisher's server port [Default : 8080]
-  -t TYPE, --type TYPE  MaxPhisher's phishing type index [Default :
+  -p PORT, --port PORT  Phisherpy's server port [Default : 8080]
+  -t TYPE, --type TYPE  Phisherpy's phishing type index [Default :
                         null]
   -o OPTION, --option OPTION
-                        MaxPhisher's template index [ Default : null ]
+                        Phisherpy's template index [ Default : null ]
   -T TUNNELER, --tunneler TUNNELER
                         Tunneler to be chosen while url shortening
                         [Default : Cloudflared]
@@ -111,7 +107,7 @@ options:
   -s DURATION, --duration DURATION
                         Media duration while capturing [Default :
                         5000(ms)]
-  -m MODE, --mode MODE  Mode of MaxPhisher [Default: normal]
+  -m MODE, --mode MODE  Mode of Phisherpy [Default: normal]
   -e TROUBLESHOOT, --troubleshoot TROUBLESHOOT
                         Troubleshoot a tunneler [Default: null]
   --nokey               Use localtunnel without ssh key [Default:
@@ -175,21 +171,3 @@ If not found, php, ssh and python modoules will be installed on first run
 
 ## [!] Disclaimer
 ***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of MaxPhisher!***
-
-### [*] Support
-####  Want to show support? Just spread the word and smash the star button
-###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
-
-## Credits:
-[PyPhisher](https://github.com/KasRoudra/PyPhisher)
-[CamHacker](https://github.com/KasRoudra/CamHacker)
-[VidPhisher](https://github.com/KasRoudra/VidPhisher)
-[IP-Tracker](https://github.com/KasRoudra/IP-Tracker)
-[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
-[Seeker](https://github.com/thewhiteh4t/seeker)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
