@@ -165,8 +165,6 @@ If not found, php, ssh and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![MaxPhisher](https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/files/maxphisher.gif)
-
  
 ## Solution of common issues
  - Some secured browsers like Firefox can warn for '@' prefixed links. You should use pure links or custom link to avoid it.
@@ -189,12 +187,6 @@ If not found, php, ssh and python modoules will be installed on first run
 [IP-Tracker](https://github.com/KasRoudra/IP-Tracker)
 [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 [Seeker](https://github.com/thewhiteh4t/seeker)
-
-## [~] Find Me on :
-
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
-
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
 
 - [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
 
