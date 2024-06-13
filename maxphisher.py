@@ -1,12 +1,10 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : MaxPhisher
-# Author     : KasRoudra
+# ToolName   : Phisherpy
+# Author     : Yash Singh
 # Version    : 1.1
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
-# Github     : https://github.com/KasRoudra
-# Contact    : https://m.me/KasRoudra
-# Description: MaxPhisher is a phishing tool in python
+# Copyright  : Yash Singh (2021-2022)
+# Description: Phisherpy is a phishing tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
 # 1st Commit : 08/9/2022
 # Language   : Python
@@ -19,7 +17,7 @@
 """
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2022 Yash Singh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -143,7 +141,7 @@ info2  =   f"{green}[{white}•{green}] {purple}"
 
 # Modifying this could be potentially dangerous
 logo = f"""
-{red} __  __            ____  _     _     _
+{red} __  __             ____  _     _     _
 {cyan}|  \/  | __ ___  _|  _ \| |__ (_)___| |__   ___ _ __
 {yellow}| |\/| |/ _` \ \/ / |_) | '_ \| / __| '_ \ / _ \ '__|
 {blue}| |  | | (_| |>  <|  __/| | | | \__ \ | | |  __/ |
