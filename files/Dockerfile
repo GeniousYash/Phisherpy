@@ -1,9 +1,7 @@
 # Dockerfile
 
-# Author       : KasRoudra
-# Github       : https://github.com/KasRoudra
-# Messenger    : https://m.me/KasRoudra
-# Email        : kasroudrakrd@gmail.com
+# Author       : Yash Singh
+# Github       : https://github.com/GeniousYash 
 # Date         : 08-09-2022
 # Main Language: Python
 
@@ -15,7 +13,7 @@ FROM debian:latest
 FROM python:3
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/MaxPhisher"
+LABEL MAINTAINER="https://github.com/GeniousYash"
 
 # Working directory
 WORKDIR MaxPhisher/
